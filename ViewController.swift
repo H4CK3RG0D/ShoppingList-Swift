@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ShoppingListHackwich
 //
-//  Created by period2 on 1/10/22.
+//  Created by root on 1/10/22.
 //
 
 import UIKit
